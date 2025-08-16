@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm MSNOLIX</h1>
 <h3 align="center">Cybersecurity Enthusiast & Full-Stack Developer</h3>
 
