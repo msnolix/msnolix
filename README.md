@@ -1,7 +1,8 @@
 # 👋 Hi, I'm MSNOLIX
 
-I'm a **Cybersecurity Enthusiast & Full-Stack Developer** passionate about creating **secure, innovative, and impactful solutions**.  
-I specialize in **ethical hacking, AI experiments, web development, and automation tools**.  
+I'm a **Cybersecurity Enthusiast & Full-Stack Developer**.  
+I specialize in building **secure, efficient, and innovative applications**, from **ethical hacking tools** to **AI and web solutions**.  
+I love **learning, experimenting, and sharing knowledge** with the community.  
 
 ---
 
@@ -21,47 +22,38 @@ I specialize in **ethical hacking, AI experiments, web development, and automati
 
 ---
 
-## 📊 Skills Progress
+## 🔥 Focus Areas
 
-**Cybersecurity:**  
-![Cybersecurity](https://progress-bar.dev/90/?title=Cybersecurity)
-
-**Web Development:**  
-![Web Dev](https://progress-bar.dev/85/?title=Web%20Dev)
-
-**AI & Automation:**  
-![AI](https://progress-bar.dev/75/?title=AI%20%26%20Automation)
-
-**Mobile App Development:**  
-![Mobile Dev](https://progress-bar.dev/70/?title=Mobile%20Dev)
+- **Cybersecurity**: Ethical hacking, penetration testing, encryption tools  
+- **Development**: Web apps, APIs, AI-assisted solutions, mobile apps  
+- **Automation & Tools**: Security automation, ESP32 IoT projects, payment terminals  
 
 ---
 
-## 🔥 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Demo / Link |
-|---------|-------------|-------------|
-| **MS-GUARD-256** | AES-GCM encryption tool with PBKDF2 key derivation | ![Demo](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif) [GitHub](https://github.com/msnolix/MS-GUARD-256) |
-| **School Poster Generator** | Dynamic poster generator for schools | ![Demo](https://media.giphy.com/media/l0HlRmF7vT6n2im7C/giphy.gif) [GitHub](https://github.com/msnolix/school-poster) |
-| **ESP32 Razorpay Terminal** | DIY payment terminal using ESP32 | ![Demo](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif) [GitHub](https://github.com/msnolix/ESP32-Razorpay) |
-| **MS-128 Encryption Tool** | Custom web-based encryption/decryption tool | ![Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) [GitHub](https://github.com/msnolix/MS-128) |
+| Project | Description | Link |
+|---------|-------------|------|
+| **MS-GUARD-256** | AES-GCM encryption tool with PBKDF2 key derivation | [GitHub](https://github.com/msnolix/MS-GUARD-256) |
+| **School Poster Generator** | Dynamic poster generator for schools | [GitHub](https://github.com/msnolix/school-poster) |
+| **ESP32 Razorpay Terminal** | DIY payment terminal using ESP32 | [GitHub](https://github.com/msnolix/ESP32-Razorpay) |
+| **MS-128 Encryption Tool** | Custom web-based encryption/decryption tool | [GitHub](https://github.com/msnolix/MS-128) |
 
 ---
 
 ## 📈 GitHub Stats
 
-![MSNOLIX GitHub Stats](https://github-readme-stats.vercel.app/api?username=msnolix&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msnolix&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msnolix&theme=radical)
+![MSNOLIX GitHub Stats](https://github-readme-stats.vercel.app/api?username=msnolix&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msnolix&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Cybersecurity Techniques & Pentesting  
-- AI & Machine Learning for Security Tools  
-- Flutter & Dart Mobile App Development  
+- Advanced Cybersecurity & Ethical Hacking Techniques  
+- AI & Machine Learning for Security  
 - Web Security & Cloud Security  
+- Mobile App Development (Flutter & Dart)  
 
 ---
 
@@ -76,7 +68,9 @@ I specialize in **ethical hacking, AI experiments, web development, and automati
 
 ## ⚡ Fun Facts
 
-- I enjoy solving **CTF challenges** and building **security tools**.  
-- Love creating **full-stack apps** with **secure coding practices**.  
-- Passionate about **learning new tech** and sharing knowledge with others.  
+- I enjoy **solving CTF challenges** and creating **security tools**.  
+- I love **building full-stack apps** with a focus on **secure coding practices**.  
+- Always learning new technologies and sharing knowledge with others!  
+
+---
 
