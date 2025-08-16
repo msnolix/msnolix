@@ -36,10 +36,8 @@ I love **learning, experimenting, and sharing knowledge** with the community.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **MS-GUARD-256** | AES-GCM encryption tool with PBKDF2 key derivation | [GitHub](https://github.com/msnolix/MS-GUARD-256) |
-| **School Poster Generator** | Dynamic poster generator for schools | [GitHub](https://github.com/msnolix/school-poster) |
-| **ESP32 Razorpay Terminal** | DIY payment terminal using ESP32 | [GitHub](https://github.com/msnolix/ESP32-Razorpay) |
-| **MS-128 Encryption Tool** | Custom web-based encryption/decryption tool | [GitHub](https://github.com/msnolix/MS-128) |
+| **MS-GUARD-256 Encryption Tool** | AES-GCM encryption tool with PBKDF2 key derivation | [GitHub](https://github.com/msnolix/msguard256) |
+
 
 ---
 
