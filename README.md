@@ -37,6 +37,7 @@ I love **learning, experimenting, and sharing knowledge** with the community.
 | Project | Description | Link |
 |---------|-------------|------|
 | **MS-GUARD-256 Encryption Tool** | AES-GCM encryption tool with PBKDF2 key derivation | [GitHub](https://github.com/msnolix/msguard256) |
+| **WiFiDash** | Professional terminal-based Wi-Fi security dashboard for monitoring, handshake capture, and testing your own networks | [GitHub](https://github.com/msnolix/WiFiDash) |
 
 
 ---
